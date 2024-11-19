@@ -33,3 +33,6 @@
 
 # Build dir
 zal/build/*
+build/**/*
+out/**/*
+.vscode/
